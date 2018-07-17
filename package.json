@@ -1,0 +1,27 @@
+{
+  "name": "the-challenger-api",
+  "version": "1.0.0",
+  "description": "this involves creating an api for the challenger project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "the-challenger-api"
+  },
+  "keywords": [
+    "challenger",
+    "node",
+    "graphQL",
+    "express"
+  ],
+  "author": "Betty",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "lodash": "^4.17.10"
+  }
+}
